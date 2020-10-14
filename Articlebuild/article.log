@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  14 OCT 2020 16:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  14 OCT 2020 18:01
 entering extended mode
 **"c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Article/article.tex"
 ("c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Article/article.tex"
@@ -564,7 +564,7 @@ Underfull \hbox (badness 1902) in paragraph at lines 139--140
 \T1/pplx/m/n/10 (+20) lin-eales donde los el-e-men-tos
  []
 
-<./img/1.png, id=49, 249.18094pt x 189.70876pt>
+<./img/1.png, id=53, 249.18094pt x 189.70876pt>
 File: ./img/1.png Graphic file (type png)
 <use ./img/1.png>
 Package pdftex.def Info: ./img/1.png  used on input line 141.
@@ -574,12 +574,12 @@ Underfull \hbox (badness 1052) in paragraph at lines 143--144
 []\T1/pplx/b/n/10 Colas: \T1/pplx/m/n/10 (+20) Es una es-truc-tura de
  []
 
-<./img/2.png, id=55, 231.11343pt x 222.8325pt>
+<./img/2.png, id=59, 231.11343pt x 222.8325pt>
 File: ./img/2.png Graphic file (type png)
 <use ./img/2.png>
 Package pdftex.def Info: ./img/2.png  used on input line 145.
 (pdftex.def)             Requested size: 142.26378pt x 137.16527pt.
-<./img/3.png, id=56, 481.04718pt x 280.04625pt>
+<./img/3.png, id=60, 481.04718pt x 280.04625pt>
 File: ./img/3.png Graphic file (type png)
 <use ./img/3.png>
 Package pdftex.def Info: ./img/3.png  used on input line 149.
@@ -587,12 +587,12 @@ Package pdftex.def Info: ./img/3.png  used on input line 149.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./img/4.png, id=57, 195.73125pt x 172.39406pt>
+<./img/4.png, id=61, 195.73125pt x 172.39406pt>
 File: ./img/4.png Graphic file (type png)
 <use ./img/4.png>
 Package pdftex.def Info: ./img/4.png  used on input line 156.
 (pdftex.def)             Requested size: 142.26378pt x 125.30736pt.
-<./img/5.png, id=58, 170.88844pt x 128.73094pt>
+<./img/5.png, id=62, 170.88844pt x 128.73094pt>
 File: ./img/5.png Graphic file (type png)
 <use ./img/5.png>
 Package pdftex.def Info: ./img/5.png  used on input line 160.
@@ -617,7 +617,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 172--177
 
  []
 
-<./img/6.png, id=64, 423.83344pt x 23.33719pt>
+<./img/6.png, id=68, 423.83344pt x 23.33719pt>
 File: ./img/6.png Graphic file (type png)
 <use ./img/6.png>
 Package pdftex.def Info: ./img/6.png  used on input line 178.
@@ -666,103 +666,136 @@ Underfull \hbox (badness 1609) in paragraph at lines 188--192
  []
 
 [4 <./img/6.png>]
-Underfull \hbox (badness 7613) in paragraph at lines 229--230
+<./img/7.png, id=75, 387.69844pt x 246.9225pt>
+File: ./img/7.png Graphic file (type png)
+<use ./img/7.png>
+Package pdftex.def Info: ./img/7.png  used on input line 216.
+(pdftex.def)             Requested size: 142.26378pt x 90.60634pt.
+<./img/8.png, id=76, 423.08063pt x 488.57532pt>
+File: ./img/8.png Graphic file (type png)
+<use ./img/8.png>
+Package pdftex.def Info: ./img/8.png  used on input line 220.
+(pdftex.def)             Requested size: 142.26378pt x 164.28693pt.
+<./img/9.png, id=77, 564.60938pt x 255.20343pt>
+File: ./img/9.png Graphic file (type png)
+<use ./img/9.png>
+Package pdftex.def Info: ./img/9.png  used on input line 224.
+(pdftex.def)             Requested size: 142.26378pt x 64.30302pt.
+
+Underfull \hbox (badness 7613) in paragraph at lines 244--245
 \T1/pplx/m/n/10 (+20) las y Co-las TDA. Re-cu-per-ado de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
 
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 230--231
+Underfull \hbox (badness 1584) in paragraph at lines 245--246
 []\T1/pplx/m/n/10 (+20) Blancante, O. (2014). Es-truc-tura de
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 230--231
+Underfull \hbox (badness 5374) in paragraph at lines 245--246
 \T1/pplx/m/n/10 (+20) datos  Ár-boles. Re-cu-per-ado de
  []
 
 
-Overfull \hbox (0.54219pt too wide) in paragraph at lines 230--231
+Overfull \hbox (0.54219pt too wide) in paragraph at lines 245--246
 \T1/pplx/m/n/10 (-20) https://www.oscarblancarteblog.com/201 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
 
  []
 
 
-Overfull \hbox (1.43092pt too wide) in paragraph at lines 231--232
+Overfull \hbox (1.43092pt too wide) in paragraph at lines 246--247
 \T1/pplx/m/n/10 (-20) http://castrokatia123.blogspot.com/2016/ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 232--233
+Underfull \hbox (badness 3375) in paragraph at lines 247--248
 \T1/pplx/m/n/10 (+20) & Data Struc-ture. Re-cu-per-ado de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+[5 <./img/7.png> <./img/8.png> <./img/9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 []\T1/pplx/m/n/10 (+20) Hammer, J., & Schnei-der, M.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 \T1/pplx/m/n/10 (+20) (2001). Data Struc-tures for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 \T1/pplx/m/n/10 (+20) Databases 60.1. Re-cu-per-ado de:
  []
 
 
-Overfull \hbox (0.99301pt too wide) in paragraph at lines 233--234
+Overfull \hbox (0.99301pt too wide) in paragraph at lines 248--249
 \T1/pplx/m/n/10 (-20) https://www.cise.ufl.edu/[]mschneid/Rese 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
 
  []
 
 No file article.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
+[6
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
  ("c:/Users\Wizzy\Desktop\UPT 2020-I\DB2\Trabajo01\Articlebuild\article.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 237.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 237.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
 Package rerunfilecheck Info: File `article.out' has not changed.
-(rerunfilecheck)             Checksum: 1CC9AFA8AA3076F47118B4297F83F67C;511.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
+(rerunfilecheck)             Checksum: 392D51949F5B323CD53E81F9DB1AD898;560.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
  ) 
 Here is how much of TeX's memory you used:
- 11188 strings out of 480790
- 176540 string characters out of 2907055
- 497179 words of memory out of 3000000
- 26698 multiletter control sequences out of 15000+200000
- 589402 words of font info for 275 fonts, out of 3000000 for 9000
+ 11205 strings out of 480790
+ 176764 string characters out of 2907055
+ 497180 words of memory out of 3000000
+ 26714 multiletter control sequences out of 15000+200000
+ 589179 words of font info for 272 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,45p,1241b,708s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Wizzy/AppData/Roaming/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "c:/Users\Wizzy\Desktop\UPT 2020-I\DB2\Trabajo01\Articlebuild\article.pdf" (5 pages, 229642 bytes).
+Output written on "c:/Users\Wizzy\Desktop\UPT 2020-I\DB2\Trabajo01\Articlebuild\article.pdf" (6 pages, 267197 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 47207 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 47230 words of extra memory for PDF output out of 51595 (max. 10000000)
 
