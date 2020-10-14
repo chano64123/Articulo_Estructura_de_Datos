@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article"] 1602711217 "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.aux" "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.bbl" "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article" 1602711219
+["bibtex c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article"] 1602711633 "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.aux" "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.bbl" "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article" 1602711635
   "C:/Program Files/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "bibliografia.bib" 0 -1 0 ""
-  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.aux" 1602711218 1951 5323a630a7d7ed862cfc8ccc5580ca6a "pdflatex"
+  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.aux" 1602711634 1938 d2a59901ff394e6536f2f4d801f38ac6 "pdflatex"
   (generated)
-  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.bbl"
   "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.blg"
-["pdflatex"] 1602711217 "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Article/article.tex" "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.pdf" "article" 1602711219
+  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.bbl"
+["pdflatex"] 1602711633 "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Article/article.tex" "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.pdf" "article" 1602711635
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136790254 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/palatino/pplb9e.tfm" 1136790254 5972 0c64c4f5128ecc01ce53c9f2da598834 ""
@@ -115,11 +115,11 @@
   "C:/Users/Wizzy/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/Wizzy/AppData/Roaming/MiKTeX/tex/latex/titlesec/titlesec.sty" 1571243658 48596 2b6a95da931c07a430b1a61904aaa42d ""
   "C:/Users/Wizzy/AppData/Roaming/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "article.tex" 1602711216 19712 eb327016ec4a4ac0dc88c59cdd6d4bd5 ""
-  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Article/article.tex" 1602711216 19712 eb327016ec4a4ac0dc88c59cdd6d4bd5 ""
-  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.aux" 1602711218 1951 5323a630a7d7ed862cfc8ccc5580ca6a "pdflatex"
+  "article.tex" 1602711631 19704 28ea17dfaaba1aa00333b4197bf93320 ""
+  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Article/article.tex" 1602711631 19704 28ea17dfaaba1aa00333b4197bf93320 ""
+  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.aux" 1602711634 1938 d2a59901ff394e6536f2f4d801f38ac6 "pdflatex"
   "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.bbl" 0 -1 0 "bibtex c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article"
-  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.out" 1602711218 511 1cc9afa8aa3076f47118b4297f83f67c "pdflatex"
+  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.out" 1602711634 511 1cc9afa8aa3076f47118b4297f83f67c "pdflatex"
   "img/1.png" 1602707883 24045 c98e9dfbb515eb1c6b7053aa00d090e6 ""
   "img/2.png" 1602707896 44293 4cbd1890f56eb874c3da3fb9b3835b51 ""
   "img/3.png" 1602707904 36696 b2646018d54e1daee95c8d91b5f1b457 ""
@@ -128,6 +128,6 @@
   "img/6.png" 1602710737 2145 896c9ade16affbaf41c0cd8c4ea267cc ""
   (generated)
   "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.out"
+  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.pdf"
   "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.aux"
   "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.log"
-  "c:/Users/Wizzy/Desktop/UPT 2020-I/DB2/Trabajo01/Articlebuild/article.pdf"
